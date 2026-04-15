@@ -6,4 +6,7 @@ Nachdem ich Mein thema ausgesucht habe habe ich eine Pro contra liste ersztellt 
 nun verbringe ich meinen Morgen die beiden la sportiva Modelle zu bergleichen. 
 
 20.06.2026
-Ich hatte viele probleme mit meinem Folder aber habe es in der heutigen doppellektion gefixt. Jetzt konzentriere ich mich rein noch auf das WEBdesingn. 
+Ich hatte viele probleme mit meinem Folder aber habe es in der heutigen doppellektion gefixt. Jetzt konzentriere ich mich auf das WEBdesingn.
+
+22.06.2026
+
