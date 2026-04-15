@@ -10,5 +10,10 @@ Ich hatte viele probleme mit meinem Folder aber habe es in der heutigen doppelle
 
 15.4.2026
  
-Heute habe ich den rest meiner Webseite
+Heute habe ich den rest meiner Webseite gemacht, Ich hae den code für eine Reihe bilder geschrieben, darunter text, damit man sieht über welche schuhe ich spreche. 
+dann habe ich ein grosses langes bild eigefügt. darunter eine Tabelle die die beiden Modelle in verschiedenen Aspekten vergleicht.
+Unter der Tabelle habe ich einen Button erstellt in dem man ein kleines Quiz uber sein wissen das man im text bekommen haben sollte getestet wird. 
+All dies habe ich unter anderem mithilfe von Khan academy und dem KI support von Code erarbeitet.
+
+Wenn ich jetzt reflektiere ist mir aufgefallen das ich due erwartungen nicht gecheckt habe und keine kleinen Commits gemacht habe, nur jetzt einen grossen. 
 
