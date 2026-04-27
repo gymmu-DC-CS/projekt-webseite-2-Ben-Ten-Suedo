@@ -1,5 +1,6 @@
 // Simple 5-question quiz about the shoes.
 (() => {
+  document.addEventListener('DOMContentLoaded', () => {
   const quizData = [
     {
       q: 'Which membrane makes the shoes waterproof?',
@@ -122,5 +123,7 @@
   document.addEventListener('keydown', (e)=>{
     if (e.key === 'Escape' && modal.getAttribute('aria-hidden') === 'false') closeQuiz();
   });
+
+  }); // DOMContentLoaded
 
 })();
