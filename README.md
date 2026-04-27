@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Heute habe ich mein Thema ausgesucht über das meine Webseite gehen sollte. 
 Ich habe mich für eine Review seite von einem Wanerschuh modell entschieden weil ich genau diese schuhe vor einiger zeit gekeuft habe. 
 Mit meiner Webseite will ich andere leute dazu motivieren auch diese schuhe zu kaufen um eine sichere und bequeme wanderung zu haben.
@@ -16,4 +17,7 @@ Unter der Tabelle habe ich einen Button erstellt in dem man ein kleines Quiz ube
 All dies habe ich unter anderem mithilfe von Khan academy und dem KI support von Code erarbeitet.
 
 Wenn ich jetzt reflektiere ist mir aufgefallen das ich due erwartungen nicht gecheckt habe und keine kleinen Commits gemacht habe, nur jetzt einen grossen. 
+=======
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/pAqJXfzR)
+>>>>>>> d7f736e3a67f2ec3ac312916a365b6ea39f8e380
 
